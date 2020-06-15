@@ -1,0 +1,109 @@
+ #상단바_배경{
+   position: fixed;
+    width: 100%;
+   	height: 10%;
+   	background-color: #91a8d1;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 20px;
+  }
+   #작은메뉴1{
+    position: fixed;
+    width: 120px;
+    top: 10px;
+    left: 25%;
+    height: 50px;
+    border-radius: 5px;
+    background-color: #ffffff;
+    font-size: 20px;
+    color: #91a8d1;
+    text-align: center;
+    font-weight: bold;
+   }
+   #상단바1{
+    position: fixed;
+    width: 51%;
+    top: 35px;
+   	height: 100px;
+   	border-top-right-radius: 15px;
+    background-color: #ffffff;
+   	color: #91a8d1;
+    font-weight: bold;
+    padding-top: 20px;
+    font-size: 20px;
+    text-align: right;
+   }
+    #상단바2{
+  position: fixed;
+    width: 50%;
+    top: 35px;
+    left: 51%;
+    height: 100px;
+    border-top-left-radius: 15px;
+    background-color: #ffffff;  
+    color: #91a8d1;
+    font-weight: bold;
+    padding-top: 28px;
+    font-size: 20px;
+    text-align: left;
+   }
+   #상단바3{
+    position: fixed;
+    top: 120px; left:0px;
+    width: 51%;
+    height: 35px;
+    border-top-right-radius: 15px;
+    background-color: #f7cac9;
+    color: #ffffff;
+   }
+   #상단바4{
+    position: fixed;
+    width: 50%;
+    top: 120px;
+   	height: 35px;
+   	left: 51%;
+   	border-top-left-radius: 15px;
+    background-color: #f7cac9;
+   }
+   #홈{
+    padding-left: 210px;
+    font-size:18px;
+    font-weight: bold;
+    text-align: center;
+  }
+   #왼쪽메뉴{
+   top: 60px;
+   font-size: 30px;
+   color: #0f4c81;
+   margin-left: 10%;
+   margin-top: 10%;
+   }
+   #자기소개{
+    font-size: 40px;
+    font-weight: bold;
+    color: #004680;
+   }
+   #자기소개시작{
+    font-size: 35px;
+    color: #000000;
+   }
+   #좌우명{
+    font-size: 25px;
+    color: #0f4c81;
+    margin-left: 370px;
+    width:800px
+   }
+   #본문{
+    overflow-y: scroll;
+    margin-left: 370px;
+    font-size:20px;
+    color:#555555;
+    width:100%;
+    height: 1700%;
+   }
+   #내이름{
+   font-size:20px;
+   font-weight: bold;
+   color: #0f4c81;
+   text-align: right;
+   }
